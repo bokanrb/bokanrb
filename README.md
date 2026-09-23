@@ -8,10 +8,10 @@
 
 ## CVE Research
 
-[![CVE-XXXX-XXXXX](https://img.shields.io/badge/CVE--XXXX--XXXXX-Privilege%20Escalation%20%7C%20High-cc5500?style=for-the-badge&labelColor=111111)](https://nvd.nist.gov/vuln/search)
-[![CVE-XXXX-XXXXX](https://img.shields.io/badge/CVE--XXXX--XXXXX-Remote%20Code%20Execution%20%7C%20Critical-cc0000?style=for-the-badge&labelColor=111111)](https://nvd.nist.gov/vuln/search)
+[![CVE-2021-27403](https://img.shields.io/badge/CVE--2021--27403-Cross--Site%20Scripting%20(XSS)%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111)](https://github.com/bokanrb/CVE-2021-27403)
+[![CVE-2021-27404](https://img.shields.io/badge/CVE--2021--27404-HTTP%20Host%20Header%20Injection%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111)](https://github.com/bokanrb/CVE-2021-27404)
 
-> ⚠️ Replace the CVE IDs above with your actual published CVE numbers.
+> 📌 Both CVEs affect **Askey RTF8115VW** router — published Feb 2021
 
 ---
 
@@ -39,9 +39,9 @@
 │                                                         │
 │   > cat roles.txt                                       │
 │                                                         │
-│     Red Team          ████████████░░  Expert            │
-│     Purple Team       ████████████░░  Expert            │
-│     SOC Operations    ██████████████  Expert            │
+│     Red Team          ██████████████  Expert            │
+│     Purple Team       █████████████░  Expert            │
+│     SOC Operations    ████████████░░  Expert            │
 │     Threat Hunting    ███████████░░░  Advanced          │
 │     Forensics / IR    ██████████░░░░  Advanced          │
 │     Maldev / Evasion  █████████░░░░░  Advanced          │
@@ -59,7 +59,7 @@
 
 ## Skills & Tools
 
-[![Skills](https://skillicons.dev/icons?i=python,cs,bash,powershell,github,linux,windows,azure,docker,kali)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cs,cpp,bash,powershell,github,linux,windows,azure,aws)](https://skillicons.dev)
 
 ---
 
