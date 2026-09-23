@@ -1,8 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Bokanrb&textBg=false&fontColor=555555&fontSize=70&fontAlign=74&fontAlignY=50&animation=fadeIn&rotate=0&stroke=555555&strokeWidth=0&desc=Offensive+and+Defensive+Cybersecurity+Professional&descSize=20&descAlign=63&descAlignY=67)](https://github.com/bokanrb)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06081F&width=435&lines=CRTO+%7C+EWPT+%7C+DCPT+%7C+CCSA+%7C+CCNA))](https://github.com/bokanrb)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=bokanrb&style=flat-square&color=FF6600&label=profile+views)](https://github.com/bokanrb)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06081F&width=435&lines=CRTO+%7C+EWPT+%7C+DCPT+%7C+CCSA+%7C+CCNA)](https://github.com/bokanrb)
 
 ---
 
