@@ -1,6 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=bokanrb&fontSize=80&fontColor=FF6600&animation=twinkling&fontAlignY=38&desc=SOC+Lead+%7C+Red+Team+%7C+Threat+Hunter&descAlignY=58&descColor=FFFFFF)](https://github.com/bokanrb)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Bokanrb&textBg=false&fontColor=555555&fontSize=70&fontAlign=74&fontAlignY=50&animation=fadeIn&rotate=0&stroke=555555&strokeWidth=0&desc=Offensive+and+Defensive+Cybersecurity+Professional&descSize=20&descAlign=63&descAlignY=67)](https://github.com/bokanrb)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6600&center=true&vCenter=true&random=false&width=600&lines=OSEP+%7C+CRTO+%7C+DCPT+%7C+eWPT+%7C+CCNA+%7C+CCSA;GSOC+Lead+%40+Malomatia+%7C+Doha%2C+Qatar;Red+Team+%26+Purple+Team+Specialist;SOC+Operations+%26+Incident+Response;2x+CVE+Author+%26+Security+Researcher)](https://github.com/bokanrb)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06081F&width=435&lines=CRTO+%7C+EWPT+%7C+DCPT+%7C+CCSA+%7C+CCNA))](https://github.com/bokanrb)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bokanrb&style=flat-square&color=FF6600&label=profile+views)](https://github.com/bokanrb)
 
