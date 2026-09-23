@@ -12,10 +12,7 @@
 [![CVE-2021-27403](https://img.shields.io/badge/CVE--2021--27403-Cross--Site%20Scripting%20(XSS)%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111)](https://github.com/bokanrb/CVE-2021-27403)
 [![CVE-2021-27404](https://img.shields.io/badge/CVE--2021--27404-HTTP%20Host%20Header%20Injection%20%7C%20Medium-cc8800?style=for-the-badge&labelColor=111111)](https://github.com/bokanrb/CVE-2021-27404)
 
-> 📌 Both CVEs affect **Askey RTF8115VW** router — published Feb 2021
-
 ---
-
 ## Certifications
 
 [![CRTO](https://img.shields.io/badge/ZeroPoint-CRTO-8B0000?style=for-the-badge&logoColor=white&labelColor=111111)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
@@ -25,9 +22,7 @@
 [![CCSA](https://img.shields.io/badge/Check%20Point-CCSA-CC0000?style=for-the-badge&logoColor=white&labelColor=111111)](https://www.checkpoint.com/certifications/)
 
 ---
-
 ## About Me
-
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
@@ -53,7 +48,5 @@
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
-
 ---
-
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)](https://github.com/bokanrb)
