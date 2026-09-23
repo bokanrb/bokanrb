@@ -1,9 +1,7 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Bokanrb&textBg=false&fontColor=555555&fontSize=70&fontAlign=74&fontAlignY=50&animation=fadeIn&rotate=0&stroke=555555&strokeWidth=0&desc=Offensive+and+Defensive+Cybersecurity+Professional&descSize=20&descAlign=63&descAlignY=67)](https://github.com/bokanrb)
+[![header](https://capsule-render.vercel.app/api?type=wavingcolor=0D1117&height=300&color=timeGradient&section=header&reversal=true&text=Bokanrb&textBg=false&fontColor=555555&fontSize=70&fontAlign=74&fontAlignY=50&animation=fadeIn&rotate=0&stroke=555555&strokeWidth=0&desc=Offensive+and+Defensive+Cybersecurity+Professional&descSize=20&descAlign=63&descAlignY=67)](https://github.com/bokanrb)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06081F&width=435&lines=CRTO+%7C+EWPT+%7C+DCPT+%7C+CCSA+%7C+CCNA)](https://github.com/bokanrb)
-
 ---
-
 ## Skills & Tools
 
 [![Skills](https://skillicons.dev/icons?i=python,cs,cpp,bash,powershell,github,linux,windows,azure,aws)](https://skillicons.dev)
