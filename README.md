@@ -15,7 +15,7 @@
 ---
 ## Certifications
 
-[![OSEP](https://img.shields.io/badge/OSEP-2b2b2b?logo=offsec&logoColor=white)](https://www.offsec.com/courses/pen-300/)
+[![OSEP](https://img.shields.io/badge/OffSec-OSEP-8B0000?style=for-the-badge&logo=offsec&logoColor=white&labelColor=111111)](https://www.offsec.com/courses/pen-300/)
 [![CRTO](https://img.shields.io/badge/ZeroPoint-CRTO-8B0000?style=for-the-badge&logoColor=white&labelColor=111111)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
 [![DCPT](https://img.shields.io/badge/Desec-DCPT-8B0000?style=for-the-badge&logoColor=white&labelColor=111111)](https://desecsecurity.com/)
 [![eWPT](https://img.shields.io/badge/eLearnSecurity-eWPT-0078D4?style=for-the-badge&logoColor=white&labelColor=111111)](https://elearnsecurity.com/)
